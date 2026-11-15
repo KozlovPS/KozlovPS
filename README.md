@@ -77,9 +77,19 @@ Contributor to [Bim4Everyone](https://github.com/Bim4Everyone), an open-source e
 
 **Stack:** C#, .NET 8, EF Core, SQLite, REST API.
 
-## Portfolio
 
-Detailed engineering case studies, architecture diagrams and performance metrics — coming soon.
+## Professional Portfolio
+
+[![Professional Portfolio](https://img.shields.io/badge/Explore-Professional_Portfolio-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KozlovPS/ProfessionalPortfolio)
+
+My professional engineering projects, open-source contributions,
+software architecture and technical solutions.
+
+- C# / .NET / Revit API plugins
+- Computational geometry and spatial analysis
+- Python / Dynamo automation tools
+- Personal software engineering projects
+
 
 ## Links
 
